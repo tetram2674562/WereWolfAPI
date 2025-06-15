@@ -2,7 +2,7 @@ package fr.ph1lou.werewolfapi.player.utils;
 
 import fr.ph1lou.werewolfapi.game.WereWolfAPI;
 import fr.ph1lou.werewolfapi.utils.Utils;
-import org.apache.commons.lang.StringEscapeUtils;
+import org.apache.commons.lang3.StringEscapeUtils;
 
 import java.util.function.Function;
 
